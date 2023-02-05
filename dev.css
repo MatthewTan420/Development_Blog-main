@@ -1,0 +1,9 @@
+.red{
+    color: red;
+}
+
+#blue{
+    color: white; /*this makes text white*/
+    background-color: blue; /*this makes background text blue*/
+    font-size: 30px;
+}
